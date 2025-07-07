@@ -1,7 +1,6 @@
-# Roadmap-Projects
-Front End roadmap projects
+# Roadmap-Project: Single-Page-CV
+Frontend roadmap project
 
-First Project:
 title: single-page-cv
 lang: HTML
 URL: https://roadmap.sh/projects/single-page-cv
